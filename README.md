@@ -34,7 +34,7 @@ Also, you will need to download opencv library.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ahmedwab/Face-detection.git
+   git clone https://github.com/ahmedwab/Social-Distancing
    ```
 2. Run the webcam.py program
    ```sh
